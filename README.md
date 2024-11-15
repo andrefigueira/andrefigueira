@@ -13,21 +13,6 @@ By embracing clarity, questioning inefficiencies, and pushing boundaries with te
 
 Let’s make things better, not just bigger.
 
-## Socials
-If you're into the sort of stuff I am, you might enjoy the content I produce, You can find links to my socials below, and feel free to reach out and get in touch!
-
-[Follow me on X](https://x.com/snozberryface)
-
-[Subscribe to TheGuruCoder on YouTube](https://www.youtube.com/thegurucoder)
-
-[Follow me on Threads](https://threads.com/snozberryface)
-
-[Subscribe to BuildingBetter.tech](https://buildingbetter.tech)
-
-[Listen to my music on Soundcloud](https://soundcloud.com/polyx-official)
-
-[Listed to my music on Spotify](https://open.spotify.com/artist/4PYOm2nq8O1vrnH6ej0Pnc)
-
 ## My projects
 
 [infxnity.com](https://infxnity.com)
@@ -46,17 +31,24 @@ Generate sales and rental leads for your estate agent business.
 
 Get my software and books...
 
-[integratechatgptinlaravel.com](https://integratechatgptinlaravel.com)
-
-Get my ready made LLM Laravel integration
-
 [tweetx.io](https://tweetx.io)
 
 Automate and grow your X account effortlessly with intelligent tools for creators and brands.
 
-[buildingbetter.tech](https://buildingbetter.tech)
+## Socials
+If you're into the sort of stuff I am, you might enjoy the content I produce, You can find links to my socials below, and feel free to reach out and get in touch!
 
-Read my articles or listen to my podcast
+[Follow me on X](https://x.com/snozberryface)
+
+[Subscribe to TheGuruCoder on YouTube](https://www.youtube.com/thegurucoder)
+
+[Follow me on Threads](https://threads.com/snozberryface)
+
+[Subscribe to BuildingBetter.tech](https://buildingbetter.tech)
+
+[Listen to my music on Soundcloud](https://soundcloud.com/polyx-official)
+
+[Listed to my music on Spotify](https://open.spotify.com/artist/4PYOm2nq8O1vrnH6ej0Pnc)
 
 ## 📐 Technologies used
 I'm an expert in event-driven architecture and building highly efficient, daemonized systems for scalable and reliable solutions. I specialize in delivering end-to-end software projects with a focus on quality, ensuring a highly polished finish.
