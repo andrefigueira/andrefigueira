@@ -68,9 +68,14 @@ RabbitMQ, Kafka, PubSub, IronMQ
 ### Automation
 CI/CD pipelines, DevOps workflows, Travis CI
 
+### AI
+ChatGPT, Claude, Perplexity, Lllama, RunwayML, Midjourney
+
 ## 🎸 Hobbies & Other stuff
 
 When I'm not solving complex engineering challenges, you'll find me shredding on my guitar, producing beats in my home studio, or spending quality time with my wife and daughter. If not there, I’m likely on the golf course refining my game—I’m a low-handicap golfer who thrives on mastering hard things. This drive for mastery follows me in everything I do.
+
+I am obcessed with UFOs, AI, Physics, Astophysics and Futurism, I love imagining what the future will be like and run different thought experiments all the time of what could be given different variables.
 
 ## 📱 Get in Touch
 Get in touch if you've got a problem you need help solving, or if you just want to talk.
