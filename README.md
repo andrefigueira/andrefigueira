@@ -13,7 +13,7 @@ By embracing clarity, questioning inefficiencies, and pushing boundaries with te
 
 Let’s make things better, not just bigger.
 
-## My projects
+## 🏛️ My projects
 
 [infxnity.com](https://infxnity.com)
 
@@ -35,7 +35,7 @@ Get my software and books...
 
 Automate and grow your X account effortlessly with intelligent tools for creators and brands.
 
-## Socials
+## 🌐 Socials
 If you're into the sort of stuff I am, you might enjoy the content I produce, You can find links to my socials below, and feel free to reach out and get in touch!
 
 [Follow me on X](https://x.com/snozberryface)
