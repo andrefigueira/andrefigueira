@@ -13,6 +13,21 @@ By embracing clarity, questioning inefficiencies, and pushing boundaries with te
 
 Let’s make things better, not just bigger.
 
+## Socials
+If you're into the sort of stuff I am, you might enjoy the content I produce, You can find links to my socials below, and feel free to reach out and get in touch!
+
+[Follow me on X](https://x.com/snozberryface)
+
+[Subscribe to TheGuruCoder on YouTube](https://www.youtube.com/thegurucoder)
+
+[Follow me on Threads](https://threads.com/snozberryface)
+
+[Subscribe to BuildingBetter.tech](https://buildingbetter.tech)
+
+[Listen to my music on Soundcloud](https://soundcloud.com/polyx-official)
+
+[Listed to my music on Spotify](https://open.spotify.com/artist/4PYOm2nq8O1vrnH6ej0Pnc)
+
 ## My projects
 
 [infxnity.com](https://infxnity.com)
@@ -79,18 +94,3 @@ Get in touch if you've got a problem you need help solving, or if you just want 
 **Website**
 
 [polyxmedia.com](https://polyxmedia.com)
-
-## Socials
-If you're into the sort of stuff I am, you might enjoy the content I produce, You can find links to my socials below, and feel free to reach out and get in touch!
-
-[Follow me on X](https://x.com/snozberryface)
-
-[Subscribe to TheGuruCoder on YouTube](https://www.youtube.com/thegurucoder)
-
-[Follow me on Threads](https://threads.com/snozberryface)
-
-[Subscribe to BuildingBetter.tech](https://buildingbetter.tech)
-
-[Listen to my music on Soundcloud](https://soundcloud.com/polyx-official)
-
-[Listed to my music on Spotify](https://open.spotify.com/artist/4PYOm2nq8O1vrnH6ej0Pnc)
