@@ -1,5 +1,3 @@
-![Profile Banner](https://pbs.twimg.com/profile_banners/1526145993607196672/1726584439/1500x500)
-
 # Hello, I'm André 👋
 #### Principal Engineer · Entrepreneur · Investor · Musician 
 
