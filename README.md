@@ -13,10 +13,6 @@ Let’s make things better, not just bigger.
 
 ## 🏛️ My projects
 
-[infxnity.com](https://infxnity.com)
-
-AI-enhanced algorithmic trading to make your money work harder, and earn you good returns.
-
 [jsoneditor.io](https://jsoneditor.io)
 
 Edit your JSON, XML, YAML for FREE with a modern online editor with a variety of handy inbuilt tools and no ads.
@@ -26,10 +22,6 @@ Edit your JSON, XML, YAML for FREE with a modern online editor with a variety of
 Generate sales and rental leads for your estate agent business.
 
 [thegurucoder.com](https://thegurucoder.com)
-
-Get my software and books...
-
-[tweetx.io](https://tweetx.io)
 
 Automate and grow your X account effortlessly with intelligent tools for creators and brands.
 
