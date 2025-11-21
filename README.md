@@ -15,6 +15,8 @@ Let’s make things better, not just bigger.
 
 [polyxmedia.com](https://polyxmedia.com)
 
+My portfolio with example projects, demos, free stuff and more...
+
 [jsoneditor.io](https://jsoneditor.io)
 
 Edit your JSON, XML, YAML for FREE with a modern online editor with a variety of handy inbuilt tools and no ads.
