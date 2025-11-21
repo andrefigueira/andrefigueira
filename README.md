@@ -13,6 +13,8 @@ Let’s make things better, not just bigger.
 
 ## 🏛️ My projects
 
+[polyxmedia.com](https://polyxmedia.com)
+
 [jsoneditor.io](https://jsoneditor.io)
 
 Edit your JSON, XML, YAML for FREE with a modern online editor with a variety of handy inbuilt tools and no ads.
