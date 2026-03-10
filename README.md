@@ -17,7 +17,7 @@ Let’s make things better, not just bigger.
 
 My portfolio with example projects, demos, free stuff and more...
 
-[nexus.xyz](https://nexushq.xyz)
+[nexushq.xyz](https://nexushq.xyz)
 
 AI-driven geopolitical and market intelligence platform. Fuses four signal layers (geopolitical, market, open-source intelligence, systemic risk) with narrative overlays to generate regime-aware predictions, game theory scenarios, and automated thesis generation. Features a real-time war room with aircraft tracking and OSINT event mapping, an AI analyst chat with 59 integrated tools, Brier-scored prediction tracking, and trading integration across equities and crypto. Built on Next.js, PostgreSQL with pgvector embeddings, and Claude for analysis.
 
