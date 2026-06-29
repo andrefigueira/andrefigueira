@@ -37,6 +37,20 @@ Generate sales and rental leads for your estate agent business.
 
 Automate and grow your X account effortlessly with intelligent tools for creators and brands.
 
+## Games I've built
+
+[Taken](https://taken-game.com)
+
+A free first-person UFO horror game. Work an isolated Montana farm by day, survive escalating alien encounters by night. Slow-burn dread rather than jump scares, built in Three.js and running instantly in your browser with nothing to install.
+
+[Velocity GP](https://www.velocity-gp.com/)
+
+Anti-gravity racing in the browser, Wipeout style. A fresh procedurally generated circuit every day, a full league campaign, and ghost times so you can race your friends. Also built in Three.js.
+
+[Shellbound](https://shellbound-game.vercel.app/)
+
+A turn-based artillery duel in the Scorched Earth and Worms tradition. Read the wind, dial in your angle and power, and blast the other team off the map. Play against the CPU, local 2-player, or online.
+
 ## 🌐 Socials
 If you're into the sort of stuff I am, you might enjoy the content I produce, You can find links to my socials below, and feel free to reach out and get in touch!
 
