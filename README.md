@@ -1,7 +1,7 @@
 # Hello, I'm André 👋
 #### Principal Engineer · Entrepreneur · Investor · Musician 
 
-I'm a polyglot staff engineer, I build a wide variety of tools and systems, and have worked on projects for the worlds biggest brands.
+I'm a polyglot principal engineer, I build a wide variety of tools and systems, and have worked on projects for the worlds biggest brands.
 
 I'm originally from Portugal 🇵🇹, and I live and work remotely in the UK 🇬🇧 where I've lived most of my live.
 
