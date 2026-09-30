@@ -90,15 +90,15 @@ All free, all in the browser, nothing to install. I build them from scratch, mos
 
 ## Open source, mostly for AI coding agents
 
-| | What it does | |
-|:--|:--|:--|
-| [**.context**](https://github.com/andrefigueira/.context) | A documentation method that gives AI coding tools the minimum context they need, loaded at the moment they need it, designed around measured LLM failure modes | [![stars](https://img.shields.io/github/stars/andrefigueira/.context?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/andrefigueira/.context) |
-| [**claude-hud-lcars**](https://github.com/polyxmedia/claude-hud-lcars) | The open source core of Claude LCARS, one command and your Claude Code setup is on screen | [![stars](https://img.shields.io/github/stars/polyxmedia/claude-hud-lcars?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/polyxmedia/claude-hud-lcars) |
-| [**mnemos**](https://github.com/polyxmedia/mnemos) | Persistent memory and skills for coding agents, a single Go binary that's MCP-native, with a verifier so you can see exactly what it changes | [![stars](https://img.shields.io/github/stars/polyxmedia/mnemos?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/polyxmedia/mnemos) |
-| [**traffic-control**](https://github.com/andrefigueira/traffic-control) | Air traffic control for a swarm of Claude Code agents sharing one working tree, so nobody silently overwrites anybody else's work | [![stars](https://img.shields.io/github/stars/andrefigueira/traffic-control?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/andrefigueira/traffic-control) |
-| [**engineering-codex**](https://github.com/andrefigueira/engineering-codex) | 60+ laws of software engineering, each cited to whoever coined it, installable as a Claude skill so the right law shows up mid-argument | [![stars](https://img.shields.io/github/stars/andrefigueira/engineering-codex?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/andrefigueira/engineering-codex) |
-| [**gargantua**](https://github.com/andrefigueira/gargantua) | A ray-marched Schwarzschild black hole in Three.js with zero textures, the lensing, disk and starfield are all generated per pixel | [![stars](https://img.shields.io/github/stars/andrefigueira/gargantua?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/andrefigueira/gargantua) |
-| [**mcp-screen**](https://github.com/andrefigueira/mcp-screen) + [**mcp-control**](https://github.com/andrefigueira/mcp-control) | Give Claude eyes on your screen and hands on your Mac's mouse and keyboard | [![stars](https://img.shields.io/github/stars/andrefigueira/mcp-control?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/andrefigueira/mcp-control) |
+| Project | What it does |
+|:--|:--|
+| [**.context**](https://github.com/andrefigueira/.context)<br>[![stars](https://img.shields.io/github/stars/andrefigueira/.context?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/andrefigueira/.context/stargazers) | A documentation method that gives AI coding tools the minimum context they need, loaded at the moment they need it, designed around measured LLM failure modes |
+| [**claude-hud-lcars**](https://github.com/polyxmedia/claude-hud-lcars)<br>[![stars](https://img.shields.io/github/stars/polyxmedia/claude-hud-lcars?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/polyxmedia/claude-hud-lcars/stargazers) | The open source core of Claude LCARS, one command and your Claude Code setup is on screen |
+| [**mnemos**](https://github.com/polyxmedia/mnemos)<br>[![stars](https://img.shields.io/github/stars/polyxmedia/mnemos?style=flat-square&label=%E2%98%85&labelColor=161b22&color=ffb46b)](https://github.com/polyxmedia/mnemos/stargazers) | Persistent memory and skills for coding agents, a single Go binary that's MCP-native, with a verifier so you can see exactly what it changes |
+| [**traffic-control**](https://github.com/andrefigueira/traffic-control) | Air traffic control for a swarm of Claude Code agents sharing one working tree, so nobody silently overwrites anybody else's work |
+| [**engineering-codex**](https://github.com/andrefigueira/engineering-codex) | 60+ laws of software engineering, each cited to whoever coined it, installable as a Claude skill so the right law shows up mid-argument |
+| [**gargantua**](https://github.com/andrefigueira/gargantua) | A ray-marched Schwarzschild black hole in Three.js with zero textures, the lensing, disk and starfield are all generated per pixel |
+| [**mcp-screen**](https://github.com/andrefigueira/mcp-screen)<br>[**mcp-control**](https://github.com/andrefigueira/mcp-control) | Give Claude eyes on your screen and hands on your Mac's mouse and keyboard |
 
 ## What is reality made of?
 
