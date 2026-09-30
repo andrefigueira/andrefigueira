@@ -21,17 +21,17 @@ My portfolio with example projects, demos, free stuff and more...
 
 AI-driven geopolitical and market intelligence platform. Fuses four signal layers (geopolitical, market, open-source intelligence, systemic risk) with narrative overlays to generate regime-aware predictions, game theory scenarios, and automated thesis generation. Features a real-time war room with aircraft tracking and OSINT event mapping, an AI analyst chat with 59 integrated tools, Brier-scored prediction tracking, and trading integration across equities and crypto. Built on Next.js, PostgreSQL with pgvector embeddings, and Claude for analysis.
 
-[claudelcars.com](https://claudelcars.com)
+[Our Solar System](https://3dsolarsystem.online/viewer/#earth)
 
-Star Trek LCARS management tool for all your Claude configurations
+The best 3d solar system online! I wanted to try and create a cinematic photorealistic solar system, scaled however for artistic effect, it's the best I could achieve with three.js built from scratch.
 
 [jsoneditor.io](https://jsoneditor.io)
 
 Edit your JSON, XML, YAML for FREE with a modern online editor with a variety of handy inbuilt tools and no ads.
 
-[leadscout.pro](https://leadscout.pro)
+[claudelcars.com](https://claudelcars.com)
 
-Generate sales and rental leads for your estate agent business.
+Star Trek LCARS management tool for all your Claude configurations
 
 [thegurucoder.com](https://thegurucoder.com)
 
@@ -50,10 +50,6 @@ Anti-gravity racing in the browser, Wipeout style. A fresh procedurally generate
 [Shellbound](https://shellbound-game.vercel.app/)
 
 A turn-based artillery duel in the Scorched Earth and Worms tradition. Read the wind, dial in your angle and power, and blast the other team off the map. Play against the CPU, local 2-player, or online.
-
-[Our Solar Systme](https://3dsolarsystem.online/viewer/#earth)
-
-I wanted to try and create a cinematic photoreal solar system, scaled however for artistic effect, it's the best I could acheive with three.js built from scratch.
 
 ## 🌐 Socials
 If you're into the sort of stuff I am, you might enjoy the content I produce, You can find links to my socials below, and feel free to reach out and get in touch!
